@@ -46,8 +46,11 @@ Flight Distance
 Delay Status (Target Variable)
 
 
+
+
  
   Model Evaluation
+  
   
 
 Each model is compared using:
@@ -64,7 +67,10 @@ The best-performing model is selected based on balanced performance across these
 
 
 
+
+
  Key Insights (What is Expected)
+ 
  
 
 Weather, departure time, and airline type strongly influence delay probability.
