@@ -1,11 +1,11 @@
 # FLIGHT-DELAY-AND-CANCELLATION-PREDICTION
 
- Project Overview
+ # Project Overview
 
 Flight delays and cancellations are major issues in the aviation industry, affecting passengers, airlines, and overall operations.
 This project uses machine learning techniques to predict whether a flight will be delayed or cancelled before takeoff based on flight-related and weather features.
 
- Objectives
+ # Objectives
 
 Predict the likelihood of a flight being delayed or cancelled.
 
@@ -13,7 +13,7 @@ Identify key factors influencing flight delays.
 
 Compare the performance of multiple ML models to determine the best one.
 
- Project Structure
+ # Project Structure
 flight-delay-prediction/
 │
 ├── data/                  # Raw and cleaned datasets
@@ -24,7 +24,7 @@ flight-delay-prediction/
 └── requirements.txt       # Python dependencies
 
 
- Dataset
+ # Dataset
  
 
 Dataset Source: Kaggle – Flight Delay Prediction Dataset
@@ -49,7 +49,7 @@ Delay Status (Target Variable)
 
 
  
-  Model Evaluation
+ # Model Evaluation
   
   
 
@@ -69,7 +69,7 @@ The best-performing model is selected based on balanced performance across these
 
 
 
- Key Insights (What is Expected)
+ # Key Insights (What is Expected)
  
  
 
