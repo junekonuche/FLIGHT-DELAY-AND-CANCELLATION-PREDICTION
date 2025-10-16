@@ -23,7 +23,9 @@ flight-delay-prediction/
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
 
+
  Dataset
+ 
 
 Dataset Source: Kaggle – Flight Delay Prediction Dataset
 
@@ -43,8 +45,10 @@ Flight Distance
 
 Delay Status (Target Variable)
 
+
  
   Model Evaluation
+  
 
 Each model is compared using:
 
@@ -58,7 +62,10 @@ ROC Curve / AUC
 
 The best-performing model is selected based on balanced performance across these metrics.
 
+
+
  Key Insights (What is Expected)
+ 
 
 Weather, departure time, and airline type strongly influence delay probability.
 
